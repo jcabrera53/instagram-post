@@ -1,0 +1,144 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.post{
+    background-color: white;
+    width: 500px;
+    height: 600px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.header{
+    background-color: white;
+    width: 480px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.user-info{
+    background: white;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.user-photo{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+.user-text{
+    background: white;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.user-name{
+    background-color: white;
+    width: 140px;
+    height: 20px;
+}
+.user-location{
+    background-color: white;
+    width: 140px;
+    height: 20px;
+}
+.menu{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-self: flex-end;
+    justify-content: flex-end;
+}
+.threepoints{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+.image{
+    background-color: white;
+    width: 480px;
+    height: 350px;
+}
+img{
+    width: 480px;
+    height: 350px;
+}
+.footer{
+    background-color: white;
+    width: 480px;
+    height: 150px;
+}
+.icons{
+    background-color: white;
+    width: 480px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    background: white;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.right{
+    background: white;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.liked{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+}
+.comment{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+}
+.message{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+}
+.save{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+}
+.reactions{
+    background-color: white;
+    width: 480px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.description{
+    background-color: white;
+    width: 480px;
+    height: 50px;
+}
